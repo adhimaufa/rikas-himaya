@@ -303,7 +303,7 @@ img{
 
 .font-amalfi{
   font-family: 'amalfi' !important;
-  font-size: 27px !important;
+  font-size: 22px !important;
 }
 
 .font-bromello{
@@ -487,7 +487,7 @@ img{
   line-height: 20px;
 }
 
-.text-block2 a{
+.date a{
   text-decoration: none;
   text-align: center;
   padding: 0px 20px;
@@ -496,6 +496,8 @@ img{
   border-radius: 20px;
   font-family: 'christmas';
   font-size: 30px;
+  margin-top: -60px;
+  margin-bottom: 60px;
 }
 
 .sorry1,
@@ -940,6 +942,10 @@ img{
     font-size: 10px !important;
   }
 
+  .waktu .sabtu{
+    margin-top: 70px;
+  }
+
   .waktu .sabtu p{
     font-size: 20px !important;
     line-height: 30px;
@@ -947,6 +953,7 @@ img{
 
   .kediaman{
     padding: 20px 60px;
+    margin-top: 90px;
   }
 
   .kediaman p{
@@ -956,7 +963,7 @@ img{
     padding: 0;
   }
 
-  .text-block2 a{
+  .date a{
     font-size: 20px ;
     border-radius: 15px;
   }
@@ -1307,7 +1314,7 @@ img{
   }
 
   .thankyou h5{
-      font-size: 25px !important;
+      font-size: 22px !important;
   }
 
   body{
